@@ -1,0 +1,17 @@
+div{
+    color: rgb(127, 157, 255);
+    border: 10px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+*{
+    /* background-color:turquoise ; */
+}
+h1{
+    color: brown;
+}
+ul{
+
+    font-weight:bold ;
+}
